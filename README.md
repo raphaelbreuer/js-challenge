@@ -1,6 +1,6 @@
-#Js Challenge
+# Js Challenge
 A collection of some JavaScript coding challenges
-##Framework
+## Framework
 React
-###Language
+### Language
 JavaScript & TypeScript
