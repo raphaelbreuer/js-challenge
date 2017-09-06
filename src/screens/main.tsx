@@ -13,6 +13,7 @@ class Main extends React.Component<{}, {}> {
                 <Row>
                     <Col>
                         <span> <Link to="/anogram"><Button>Anogram Page</Button></Link> </span>
+                        <span> <Link to="/rotateArray"><Button>Rotate Array Page</Button></Link> </span>
                     </Col>
                 </Row>
             </Header>
